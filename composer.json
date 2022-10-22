@@ -1,0 +1,18 @@
+{
+    "name": "ostrikov-g/habr-making-websockets-in-php-from-scratch",
+    "description": "https://habr.com/ru/post/209864/",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OstrikovG\\HabrMakingWebsocketsInPhpFromScratch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "OstrikovG",
+            "email": "ostgleal@gmail.com"
+        }
+    ],
+    "require": {}
+}
